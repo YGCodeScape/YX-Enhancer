@@ -2,7 +2,9 @@ import React from 'react'
 
 const ImgPreview = () => {
   return (
-    <div>ImgPreview</div>
+    <div>
+      
+    </div>
   )
 }
 
