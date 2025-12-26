@@ -25,3 +25,17 @@ html, body {
 .footer-d {
     margin-top: 10px;
 }
+.IU {
+    background: #fff;
+    padding: 14px;
+}
+.IU label {
+    border: 2px dashed rgb(128, 126, 126);
+    cursor: pointer;
+    padding: 10px;
+    text-align: center;
+}
+.IU label:hover {
+    border: 2px dashed rgb(98, 98, 255);
+    transform: all ease 3s;
+}

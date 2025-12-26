@@ -3,7 +3,7 @@ import Home from './components/Home'
 
 const App = () => {
   return (
-    <div className='flex flex-col items-center justify-center min-h-screen bg-gray-100 py-8 px-4 '>
+    <div className='flex flex-col items-center justify-center min-h-screen bg-gray-100 py-8 px-4 gap-5 '>
         {/* header */}
         <div className="header text-center mb-8 leading-8 uppercase ">
             <h1 className='text-4xl font-bold '>YX-Enhancer</h1>
