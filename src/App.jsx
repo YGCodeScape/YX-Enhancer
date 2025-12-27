@@ -13,7 +13,7 @@ const App = () => {
 
         {/* footer */}
         <div className="footer border-2 border-red-600'">
-          <p className="">Powered by YGCodeScape</p>
+          <p className="opacity-90 text-[1.2rem] ">Powered by YGCodeScape</p>
         </div>
 
     </div>
