@@ -4,7 +4,7 @@ import ImgUpload from './ImgUpload'
 
 const Home = () => {
   return (
-    <div className='' >
+    <div className='w-full h-full' >
         <ImgUpload />
         <ImgPreview />
     </div>
