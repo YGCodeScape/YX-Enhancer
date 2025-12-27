@@ -3,16 +3,16 @@ import Home from './components/Home'
 
 const App = () => {
   return (
-    <div className='w-full h-screen flex flex-col items-center border-2 border-red-600'>
+    <div className='w-full h-screen flex flex-col items-center'>
         {/* header */}
-        <div className="header border-2 flex flex-col gap-2 items-center ">
+        <div className="header flex flex-col gap-2 items-center ">
           <h1 className="text-[2rem] ">YX-ENHANCER</h1>
           <p className="text-[1.2rem] font-bold  ">Upload your image and let AI enhance it to you in seconds.</p>
         </div>
         <Home />
 
         {/* footer */}
-        <div className="footer border-2 border-red-600'">
+        <div className="footer">
           <p className="opacity-90 text-[1.2rem] ">Powered by YGCodeScape</p>
         </div>
 

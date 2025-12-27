@@ -24,7 +24,25 @@ html, body {
     background: var(--color-ocean);
     color: var(--color-dreamy);
 }
+.header {
+    padding: 10px 0;
+}
+.footer {
+    margin-bottom: 10px;
+}
 .header h1 {
     font-family: var(--font-style);
     transform: scale(1.5);
+}
+.img-pre {
+    margin-top: 20px;
+}
+.img-up {
+    padding: 10px;
+    cursor: pointer;
+}
+.img-up label {
+    padding: 8px 10px;
+    border: 2px dotted rgb(58, 58, 58);
+    border-radius: 10px;
 }
